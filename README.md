@@ -7,7 +7,6 @@ A pacman simulator written in Node.js
 **Local**
 
 ```sh
-$ cd pacman-simulator
 $ npm install
 $ node index.js
 ```
